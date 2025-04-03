@@ -1,0 +1,96 @@
+{
+   "app_logo":"/images/logo.svg",
+    "passenger_vehicles": {
+       "title": "Passenger vehicles",
+       "discription": "Revving up innovation from <br> interior to exterior.",
+       "parts": [
+          {
+             "video": "/videos/car-body.mp4",
+             "image": "/images/car-body.webp",
+             "title": "Complete Body"
+          },
+          {
+             "video": "/videos/car-font.mp4",
+             "image": "/images/car-font.webp",
+             "title": "Front"
+          },
+          {
+             "video": "/videos/car-cabin.mp4",
+             "image": "/images/car-cabin.webp",
+             "title": "Cabin"
+          },
+          {
+             "video": "/videos/car-exterior.mp4",
+             "image": "/images/car-exterior.webp",
+             "title": "Trunk"
+          },
+          {
+             "video": "/videos/car-trunk.mp4",
+             "image": "/images/car-trunk.webp",
+             "title": "Exterior"
+          }
+       ]
+    },
+    "heavyduty_vehicles": {
+       "title": "Commercial vehicles",
+       "discription": "Advancing engineering <br> for heavy-duty vehicles.",
+       "parts": [
+          {
+             "video": "/videos/commercial-body.mp4",
+             "image": "/images/commercial-body.svg",
+             "title": "Complete Body"
+          },
+          {
+             "video": "/videos/commercial-engine.mp4",
+             "image": "/images/commercial-engine.svg",
+             "title": "Engine"
+          },
+          {
+             "video": "/videos/commercial-cabin.mp4",
+             "image": "/images/commercial-cabin.svg",
+             "title": "Cabin"
+          }
+       ]
+    },
+    "footer":{
+        "copyright":"©2023. All Rights Reserved.",
+        "location":"Supreme house: 110, 16th Road,Chembur, Mumbai – 400071.",
+        "list":[
+            {
+                "heading":"Applications",
+                "links":[
+                    {"title":"Apparel","link":"/"},
+                    {"title":"Automotive","link":"/"},
+                    {"title":"Filtration","link":"/"},
+                    {"title":"Customised Solutions","link":"/"}
+                ]
+            },
+            {
+                "heading":"Company",
+                "links":[
+                    {"title":"Innovation","link":"/"},
+                    {"title":"Global Competency","link":"/"},
+                    {"title":"About Us","link":"/"},
+                    {"title":"Contact Us","link":"/"}
+                ]
+            },
+            {
+                "heading":"more",
+                "links":[
+                    {"title":"Careers","link":"/"},
+                    {"title":"Privacy Policy","link":"/"},
+                    {"title":"Terms and Conditions","link":"/"}
+                ]
+            },
+            {
+                "heading":"Follow Us",
+                "links":[
+                    {"title":"Twitter","link":"/"},
+                    {"title":"LinkedIn","link":"/"},
+                    {"title":"Instagram","link":"/"},
+                    {"title":"Medium","link":"/"}
+                ]
+            }
+        ]
+    }
+ }

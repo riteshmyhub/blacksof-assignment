@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "manrope";
+    src: url("../fonts/manrope.ttf") format("woff");
+    font-weight: 400;
+}
+
+body {
+    font-family: "manrope";
+  }
+.background-image{
+    background-image: url("/images/footer-bg.webp");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 300px;
+}
+
+.thumbnail img{
+    opacity: 46%;
+}
+.thumbnail:hover img{
+    opacity: 100%;
+}
+
+.thumbnail span{
+    color: #757575;
+}
+.thumbnail:hover span{
+    color: white;
+}
+.active-thumbnail img{
+    opacity: 100%;
+}
+.active-thumbnail span{
+    color: white;
+}
