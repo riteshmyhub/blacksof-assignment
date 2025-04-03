@@ -8,7 +8,8 @@ Supreme Group is a React-based web application designed with modern frontend tec
 
 The **Supreme Group** app is deployed and accessible at:  
 
-🔗 [Live Deployment](https://github.com/riteshmyhub) *app link*  
+🔗 [Live Deployment](https://supreme-web.netlify.app/) *app link*  
+🔗 [Source Code](https://github.com/riteshmyhub/blacksof-assignment) *github repo*  
 
 ### Deployment Details  
 - **Hosting Platform:** Netlify  
